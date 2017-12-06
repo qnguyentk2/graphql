@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Quynh",
+      "age": 20,
+      "companyId": "1"
+    },
+    {
+      "id": "47",
+      "firstName": "Minh",
+      "age": 21,
+      "companyId": "2"
+    },
+    {
+      "id": "48",
+      "firstName": "Vinh",
+      "age": 22,
+      "companyId": "2"
+    },
+    {
+      "firstName": "test1",
+      "age": 22,
+      "id": "I_kx9jZ"
+    },
+    {
+      "firstName": "test2",
+      "age": 22,
+      "id": "pSnvD6s"
+    },
+    {
+      "firstName": "test2",
+      "age": 22,
+      "id": "Bi~4Nvk"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Ekino",
+      "description": "web develop"
+    },
+    {
+      "id": "2",
+      "name": "DXC",
+      "description": "web develop and service outsource"
+    }
+  ]
+}
